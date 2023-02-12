@@ -1,0 +1,16 @@
+{
+  "name": "limitandcontinuity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "nodemon src/index.js"
+  },
+  "author": "Chimdi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "prompt-sync": "^4.2.0"
+  }
+}
